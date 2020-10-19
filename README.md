@@ -1,1 +1,1 @@
-# guessinggame.sh
+# guessinggame
